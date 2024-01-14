@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpApp", "CsharpApp\CsharpApp.csproj", "{EE933EB5-E802-4624-8341-9487F1AFB47C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9593A83D-B3B8-4DC8-AE61-D0BE40F73168}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapp", "webapp\webapp.csproj", "{D8D35817-633D-45E7-A8DF-6FA913B84B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE933EB5-E802-4624-8341-9487F1AFB47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE933EB5-E802-4624-8341-9487F1AFB47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE933EB5-E802-4624-8341-9487F1AFB47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE933EB5-E802-4624-8341-9487F1AFB47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9593A83D-B3B8-4DC8-AE61-D0BE40F73168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9593A83D-B3B8-4DC8-AE61-D0BE40F73168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9593A83D-B3B8-4DC8-AE61-D0BE40F73168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9593A83D-B3B8-4DC8-AE61-D0BE40F73168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D35817-633D-45E7-A8DF-6FA913B84B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D35817-633D-45E7-A8DF-6FA913B84B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D35817-633D-45E7-A8DF-6FA913B84B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D35817-633D-45E7-A8DF-6FA913B84B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB08890-D8E0-4E75-848B-0BB193675A22}
+	EndGlobalSection
+EndGlobal
